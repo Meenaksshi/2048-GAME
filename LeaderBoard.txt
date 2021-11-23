@@ -1,11 +1,11 @@
-NAME		AGE 	  GAME_LEVEL	 	SCORE		MAX_TILE
+NAME		              AGE 	  GAME_LEVEL	 	SCORE		MAX_TILE
 *********************************************************************************
-Meenaksshi	18	Small : 3 X 3		250		128
-hello               	52	Small : 3 X 3		236		64
-Valli               	20	Classic : 4 X 4		884		256
-Ramesh              	17	Big : 5 X 5		5188		512
-Harish              	14	Classic : 4 X 4		600		256
-Sevugan             	50	Small   : 3 X 3		216		64
-Meenu               	18	Bigger  : 6 X 6		21496		2048
-Sophia              	45	Small   : 3 X 3		100		16
-Meenaksshi          	18	Classic : 4 X 4		1056		128
+Meenaksshi	          18	Small : 3 X 3		  250		  128
+hello               	52	Small : 3 X 3		  236	 	  64
+Valli               	20	Classic : 4 X 4		884		  256
+Ramesh              	17	Big : 5 X 5		    5188	  512
+Harish              	14	Classic : 4 X 4		600		  256
+Sevugan             	50	Small   : 3 X 3		216		  64
+Meenu               	18	Bigger  : 6 X 6		21496	  2048
+Sophia              	45	Small   : 3 X 3		100		  16
+Meenaksshi          	18	Classic : 4 X 4		1056	  128
